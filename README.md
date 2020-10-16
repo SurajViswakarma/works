@@ -10,5 +10,5 @@ Suraj Viswakarma GitHub Portfolio
 * Decision Tree
 * Logistic Regression 
 * Various intituitive visulaization 
-![](https://github.com/SurajViswakarma/Projects-/blob/main/Images/Titanic%2001.jpg)
-![](https://github.com/SurajViswakarma/Projects-/blob/main/Images/Titanic%2002.png)
+![img1](https://github.com/SurajViswakarma/Projects-/blob/main/Images/Titanic%2001.jpg)
+![img2](https://github.com/SurajViswakarma/Projects-/blob/main/Images/Titanic%2002.png)
