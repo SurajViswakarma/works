@@ -1,10 +1,11 @@
 # Suraj_Portfolio
 Suraj Viswakarma GitHub Portfolio 
 
-# Project 1- Titanic: Machine Learning From Disaster 
+# [Project 1- Titanic: Machine Learning From Disaster](https://www.google.com) 
 * Performed discripitive analysis 
 * Predicted the survival using Lazy Predictor
-* Created gender submission file based on guts feeling 
+* Created gender submission file based on guts feeling
+* Featured Engineering 
 * Used Random Forest 
 * Decision Tree
 * Logistic Regression 
