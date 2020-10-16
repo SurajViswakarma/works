@@ -11,3 +11,4 @@ Suraj Viswakarma GitHub Portfolio
 * Logistic Regression 
 * Various intituitive visulaization 
 https://github.com/SurajViswakarma/Projects-/blob/main/Images/Titanic%2001.jpg
+https://github.com/SurajViswakarma/Projects-/blob/main/Images/Titanic%2002.png
